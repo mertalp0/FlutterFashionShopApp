@@ -1,16 +1,13 @@
 # flutter_fashion_shop_app
+ flutter ile kulanıcı arayüzü.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://user-images.githubusercontent.com/108594172/228941535-d8f41112-a534-472a-b3fc-672322c44d73.png" width="300">
+<img src="https://user-images.githubusercontent.com/108594172/228941492-1f273b41-09ee-4fec-a87d-33befed097af.png" width="300">
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/108594172/228941507-6f7b2795-3b88-4bb2-95fb-467d7ed22d6e.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[ara.webm](https://user-images.githubusercontent.com/108594172/228941478-3763a09f-ba5b-41e3-859a-a1edbbe31d5f.webm)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[keşfet.webm](https://user-images.githubusercontent.com/108594172/228941494-54f29720-6eba-4694-bc5b-48fdd0d2b8cf.webm)
